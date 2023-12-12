@@ -1,7 +1,7 @@
 # pwsh-systemInfo
   <img
   src="resources/pwsh-systemInfo.jpg"
-  alt="pwsh-systemInfo"
+  alt="pwsh-systemInfo - Example"
   style="  display: block; width: 50%;">
 
 # Overview
