@@ -1,6 +1,6 @@
 # pwsh-systemInfo
   <img
-  src="resources/pwsh-systenInfo.jpg"
+  src="resources/pwsh-systemInfo.jpg"
   alt="Snake game"
   title="Optional title"
   style="  display: block; width: 50%;">
