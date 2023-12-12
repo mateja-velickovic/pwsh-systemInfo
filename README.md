@@ -1,10 +1,10 @@
-# pwsh-numberingFiles
+# pwsh-systemInfo
 
 # Overview
-The menuPC-login.ps1 script is designed to provide users with a menu offering various actions within a PowerShell environment. Users can choose to display active services, list local users, check the PC's RAM quantity, or exit the program.
+The ```systemInfo.ps1``` script is designed to provide users with a menu offering various actions within a PowerShell environment. Users can choose to display active services, list local users, check the PC's RAM quantity, or exit the program.
 
 # Script Information
-- File Name: menuPC-login.ps1
+- File Name: systemInfo.ps1
 - Prerequisites: PowerShell 7.4.0
 - Script Version: 1.0
 - Author: Velickovic Mateja
@@ -14,7 +14,7 @@ The menuPC-login.ps1 script is designed to provide users with a menu offering va
 
 # Usage
 To run the script, open a PowerShell terminal and execute the following command:
-```.\menuPC-login.ps1```
+```.\systemInfo.ps1```
 
 # Menu Options
 1. Show Active Services (a):
