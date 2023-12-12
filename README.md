@@ -31,37 +31,37 @@ Exits the script.
 
 # Examples
 
-1. To display active services:
-Que voulez-vous faire ?
- a) Afficher les services actifs
- b) Afficher la liste des utilisateurs locaux
- c) Afficher la quantité de RAM du PC
- x) Fin
-PS> a
+1. To display active services:<br>
+Que voulez-vous faire ?<br>
+ a) Afficher les services actifs<br>
+ b) Afficher la liste des utilisateurs locaux<br>
+ c) Afficher la quantité de RAM du PC<br>
+ x) Fin<br>
+PS> a<br>
 
-2. To list local users:
-Que voulez-vous faire ?
- a) Afficher les services actifs
- b) Afficher la liste des utilisateurs locaux
- c) Afficher la quantité de RAM du PC
- x) Fin
-PS> b
+2. To list local users:<br>
+Que voulez-vous faire ?<br>
+ a) Afficher les services actifs<br>
+ b) Afficher la liste des utilisateurs locaux<br>
+ c) Afficher la quantité de RAM du PC<br>
+ x) Fin<br>
+PS> b<br>
 
-3. To display the RAM quantity:
-Que voulez-vous faire ?
- a) Afficher les services actifs
- b) Afficher la liste des utilisateurs locaux
- c) Afficher la quantité de RAM du PC
- x) Fin
-PS> c
+3. To display the RAM quantity:<br>
+Que voulez-vous faire ?<br>
+ a) Afficher les services actifs<br>
+ b) Afficher la liste des utilisateurs locaux<br>
+ c) Afficher la quantité de RAM du PC<br>
+ x) Fin<br>
+PS> c<br>
 
-4. To exit the program:
-Que voulez-vous faire ?
- a) Afficher les services actifs
- b) Afficher la liste des utilisateurs locaux
- c) Afficher la quantité de RAM du PC
- x) Fin
-PS> x
+4. To exit the program:<br>
+Que voulez-vous faire ?<br>
+ a) Afficher les services actifs<br>
+ b) Afficher la liste des utilisateurs locaux<br>
+ c) Afficher la quantité de RAM du PC<br>
+ x) Fin<br>
+PS> x<br>
 
 # Notes
 - Ensure PowerShell version 7.4.0 is installed before running the script.
