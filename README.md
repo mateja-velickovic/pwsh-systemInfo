@@ -1,4 +1,9 @@
 # pwsh-systemInfo
+  <img
+  src="resources/pwsh-systenInfo.jpg"
+  alt="Snake game"
+  title="Optional title"
+  style="  display: block; width: 50%;">
 
 # Overview
 The ```systemInfo.ps1``` script is designed to provide users with a menu offering various actions within a PowerShell environment. Users can choose to display active services, list local users, check the PC's RAM quantity, or exit the program.
